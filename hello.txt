@@ -1,1 +1,5 @@
 hello world!
+study plan:
+first git
+then webpack
+then unit testing
